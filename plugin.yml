@@ -1,9 +1,0 @@
-name: BananaIslandPlugin
-main: com.blovestes.skylandsisland.Skylands
-version: 1.0
-author: BlovesTES
-description: Type /island to get started!
-commands:
-  island:
-    description: Basic island command.
-    aliases: /is
